@@ -142,7 +142,7 @@ class Facebook:
 
 if __name__ == '__main__':
 
-    list = [222314561690783,   # Мой
+    list = [*********,   # id Akk for test
             1292828720851517]  # Порошенко
 
     driver = Facebook().driver()
